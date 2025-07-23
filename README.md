@@ -2,6 +2,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/your-coding-gif.gif" alt="Coding Animation" width="500"/>
 </p>
+
+
 - 👋 Hi, I’m Peter
 - 👀 I’m Software Engineer
 - 🌱  I’m currently working on improving my skills in full-stack development.
