@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500"/>
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Coding Animation" width="500"/>
 </p>
+
 
 - 👋 Hi, I’m Peter
 - 👀 I’m Software Engineer
