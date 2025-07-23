@@ -1,14 +1,14 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/your-coding-gif.gif" alt="Coding Animation" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500"/>
 </p>
-
 
 - 👋 Hi, I’m Peter
 - 👀 I’m Software Engineer
 - 🌱  I’m currently working on improving my skills in full-stack development.
 - 💞️ I’m looking to collaborate on open source projects that focus on web development 
 - 📫 Ask me about my projects, or if you need a study buddy for coding challenges!
+
 
 ## Contact Me
 
