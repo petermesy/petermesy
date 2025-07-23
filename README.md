@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Boy Coding Animation" width="500"/>
+  <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" alt="Toy Coding Animation" width="500"/>
 </p>
 
 
