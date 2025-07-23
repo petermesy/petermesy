@@ -5,14 +5,15 @@
 - 📫 Ask me about my projects, or if you need a study buddy for coding challenges!
 
 ## Contact Me
-## Contact Me
 
 <a href="https://www.instagram.com/peter_messay/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
 </a>
 <a href="https://www.linkedin.com/in/peter-messay-84726a319/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BXVXssjpZQ4aG%2FHgCUQYVQw%3D%3D" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
+
+
 # My Developer Portfolio
 
 ## Languages and Tools
