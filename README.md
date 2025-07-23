@@ -2,6 +2,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=👋+Hi,+I’m+Peter;👀+I’m+Software+Engineer;🌱+Improving+my+full-stack+skills;💞️+Open+source+collaborator;📫+Ask+me+about+my+projects!" alt="Animated Text" />
+</p>
 
 - 👋 Hi, I’m Peter
 - 👀 I’m Software Engineer
