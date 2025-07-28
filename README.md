@@ -7,8 +7,10 @@
 - 🌱  I’m currently working on improving my skills in full-stack development.
 - 💞️ I’m looking to collaborate on open source projects that focus on web development 
 - 📫 Ask me about my projects, or if you need a study buddy for coding challenges!
-<a href="[https://www.instagram.com/peter_messay/](https://peter-mesay-dev-showcase.onrender.com/)" target="_blank"><h1>My Portifolio website</h1>
+<a href="https://peter-mesay-dev-showcase.onrender.com/" target="_blank">
+  <h1>My Portfolio Website</h1>
 </a>
+
 
 ## Contact Me
 
